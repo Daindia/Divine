@@ -1,0 +1,2 @@
+# Brute_Force
+Brute_Force is my 24th Python project, and my first even project I'm uploading on Github. The code's sole purpose is to decrypt every caesar ciphertext code without knowing the encryption key, simple stuff really.  I incorporated the file parser, so the code can iterate through files of caesar ciphertext instead of you typing or copy and pasting the whole ciphertext in the code manually.  I'll be also uploading an Encryption code to go with the decryption code.
